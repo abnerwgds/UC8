@@ -4,7 +4,10 @@ O nome da peça deve ser maior ter mais de 3 caracteres
 CADASTRO DE Pecas
 Abner - abnerwgds@gmail.com */
 const listaPecas = ["Biela","Eixo","Mola","Braço de Direção","Camisa do Pistão"]
-const PesoPecas = [50,100,20,30,40]
+const PesoPecas = [50]
+if (PesoPecas<100) {
+    console.log("Não é possível cadastrar, peso abaixo do padrão")
+}
 const QtdMax=10
 console.log (listaPecas)
 const QtdPecas=listaPecas.length
@@ -24,7 +27,6 @@ let NomePeca="Engrenagem"
 } else {
     console.log("Nome válido")
 } */
-
     switch (NomePeca.length) {
         case 0:
             console.log("Não é possível deixar o nome  vazio")
