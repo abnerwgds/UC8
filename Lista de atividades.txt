@@ -1,0 +1,5 @@
+Atividade Online 1 - Fluxograma;OK
+Atividade Encontro 1 - Cadastro de Peças; OK
+Atividade Online 2 - Cadastro de Eventos; 
+Atividade Encontro 2 - Alunos (impar/par);
+Situação Problema - Cadastro de Eventos;
